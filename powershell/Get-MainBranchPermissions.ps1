@@ -14,13 +14,14 @@ param()
 
 # Load environment variables from .env file
 Write-Host "Loading configuration from .env file..." -ForegroundColor Cyan
-if (-not (Test-Path ".env")) {
-    Write-Error ".env file not found. Please create it with AZURE_DEVOPS_ORG_URL, AZURE_DEVOPS_PROJECT, and AZURE_DEVOPS_PAT"
+$envPath = Join-Path $PSScriptRoot "..\\.env"
+if (-not (Test-Path $envPath)) {
+    Write-Error ".env file not found at $envPath. Please create it with AZURE_DEVOPS_ORG_URL, AZURE_DEVOPS_PROJECT, and AZURE_DEVOPS_PAT"
     exit 1
 }
 
 $envVars = @{}
-Get-Content ".env" | ForEach-Object {
+Get-Content $envPath | ForEach-Object {
     if ($_ -match '^([^=]+)=(.*)$') {
         $envVars[$matches[1]] = $matches[2]
     }
