@@ -1,0 +1,190 @@
+{
+  "groups": [],
+  "teams": [
+    {
+      "id": "3278c1a7-f446-4281-bbc8-f7ab53e31738",
+      "name": "test",
+      "description": "",
+      "descriptor": null,
+      "projectName": "frog"
+    },
+    {
+      "id": "d5bba31c-79f1-42a2-bcf1-169cec43cc87",
+      "name": "frog Team",
+      "description": "The default project team.",
+      "descriptor": null,
+      "projectName": "frog"
+    }
+  ],
+  "users": [
+    {
+      "descriptor": "aad.YzMyZTEzNDUtZjZmYy03MWI0LWEwNGItOTQ5YzU4ZWI2M2Q3",
+      "displayName": "Tyrone Vriesde",
+      "uniqueName": "tvriesde@gmail.com",
+      "id": "db554e93-8678-6d7c-80c7-924b28419f16",
+      "imageUrl": "https://dev.azure.com/thefrogs/_api/_common/identityImage?id=db554e93-8678-6d7c-80c7-924b28419f16"
+    },
+    {
+      "descriptor": "svc.MmZhY2RkY2UtMTUwMi00YjhkLThiMWItMGQ5ZGJiMTNmMzM2OkJvYXJkczoxMjhjZTA2MC1iNzRhLTRiZDAtOGM2MS03OTBkOGJiMzlhODA",
+      "displayName": "Azure Boards",
+      "principalName": "128ce060-b74a-4bd0-8c61-790d8bb39a80",
+      "mailAddress": "",
+      "origin": "vsts",
+      "originId": "aee2472e-0dd8-40a7-a3b4-0601c893e08a"
+    },
+    {
+      "descriptor": "svc.MmZhY2RkY2UtMTUwMi00YjhkLThiMWItMGQ5ZGJiMTNmMzM2OkJ1aWxkOjRjOGU0ZDMzLTk1Y2YtNGU4YS1hZWU0LTg4NzkwMmY5MTI0NQ",
+      "displayName": "faas Build Service (thefrogs)",
+      "principalName": "4c8e4d33-95cf-4e8a-aee4-887902f91245",
+      "mailAddress": "",
+      "origin": "vsts",
+      "originId": "0d8ddb7b-cb9e-4004-af13-16f9fbcce1d3"
+    },
+    {
+      "descriptor": "svc.MmZhY2RkY2UtMTUwMi00YjhkLThiMWItMGQ5ZGJiMTNmMzM2OkJ1aWxkOjEyOGNlMDYwLWI3NGEtNGJkMC04YzYxLTc5MGQ4YmIzOWE4MA",
+      "displayName": "Project Collection Build Service (thefrogs)",
+      "principalName": "128ce060-b74a-4bd0-8c61-790d8bb39a80",
+      "mailAddress": "",
+      "origin": "vsts",
+      "originId": "ccc87839-0712-4c91-bbfc-1b27d8ca8e3f"
+    },
+    {
+      "descriptor": "svc.MTI4Y2UwNjAtYjc0YS00YmQwLThjNjEtNzkwZDhiYjM5YTgwOkFnZW50UG9vbDo4NjY3YWI3Ny0yYzNkLTRhODMtYjRhMy05NjhkNGE1YzViMGM",
+      "displayName": "Agent Pool Service (11)",
+      "principalName": "8667ab77-2c3d-4a83-b4a3-968d4a5c5b0c",
+      "mailAddress": "",
+      "origin": "vsts",
+      "originId": "0accfe63-c013-4ad5-b913-24f9b03c9e6f"
+    },
+    {
+      "descriptor": "svc.MmZhY2RkY2UtMTUwMi00YjhkLThiMWItMGQ5ZGJiMTNmMzM2OkJ1aWxkOjExYWNiNDkyLWY4NDgtNGJiZi1hOTk2LTIzM2Q3OWYwN2Y1OA",
+      "displayName": "UWVHackathon Build Service (thefrogs)",
+      "principalName": "11acb492-f848-4bbf-a996-233d79f07f58",
+      "mailAddress": "",
+      "origin": "vsts",
+      "originId": "cd39388f-7338-480b-b54b-461f4a2f4f57"
+    },
+    {
+      "descriptor": "svc.MTI4Y2UwNjAtYjc0YS00YmQwLThjNjEtNzkwZDhiYjM5YTgwOkFnZW50UG9vbDo3MmJhMjA4ZC04YmU1LTRjMjAtOTcyZi1jZGUyNTQwMTBiZjA",
+      "displayName": "Agent Pool Service (9)",
+      "principalName": "72ba208d-8be5-4c20-972f-cde254010bf0",
+      "mailAddress": "",
+      "origin": "vsts",
+      "originId": "4d0ac90d-7e6d-4e00-a33e-4931dc871836"
+    },
+    {
+      "descriptor": "svc.MmZhY2RkY2UtMTUwMi00YjhkLThiMWItMGQ5ZGJiMTNmMzM2OkJ1aWxkOjE5MWYyNTcwLTZiMjQtNDQwMS1iYTY4LTM0YTYzYzVjZTM2Yw",
+      "displayName": "test Build Service (thefrogs)",
+      "principalName": "191f2570-6b24-4401-ba68-34a63c5ce36c",
+      "mailAddress": "",
+      "origin": "vsts",
+      "originId": "511ec962-7edd-47cb-9862-4e8ec4e34440"
+    },
+    {
+      "descriptor": "svc.MmZhY2RkY2UtMTUwMi00YjhkLThiMWItMGQ5ZGJiMTNmMzM2OkJ1aWxkOmE2N2JkNDRkLWEwY2MtNGQ2MC05OTJmLWE2MzAzNmUyYmYwZA",
+      "displayName": "frog Build Service (thefrogs)",
+      "principalName": "a67bd44d-a0cc-4d60-992f-a63036e2bf0d",
+      "mailAddress": "",
+      "origin": "vsts",
+      "originId": "945de3a2-c4ef-4892-bec7-51de50f677e8"
+    },
+    {
+      "descriptor": "svc.MmZhY2RkY2UtMTUwMi00YjhkLThiMWItMGQ5ZGJiMTNmMzM2OkJ1aWxkOjk2MGU3OTg3LWQxOWMtNDgzZC1hOGJjLTU5OTAwNzExNTYwOQ",
+      "displayName": "mod Build Service (thefrogs)",
+      "principalName": "960e7987-d19c-483d-a8bc-599007115609",
+      "mailAddress": "",
+      "origin": "vsts",
+      "originId": "84d04cc3-3be9-4ba2-b5f2-66fbc7cfb957"
+    },
+    {
+      "descriptor": "svc.MmZhY2RkY2UtMTUwMi00YjhkLThiMWItMGQ5ZGJiMTNmMzM2OkJ1aWxkOjljZjdhMzg4LTRkYjgtNDc2NS1iMmZmLTgzYmFlN2QyNWRhZg",
+      "displayName": "D9cf7a388-4db8-4765-b2ff-83bae7d25daf Build Service (thefrogs)",
+      "principalName": "9cf7a388-4db8-4765-b2ff-83bae7d25daf",
+      "mailAddress": "",
+      "origin": "vsts",
+      "originId": "c1eeeca9-c5b8-4696-a59b-94d6e0d4a935"
+    },
+    {
+      "descriptor": "svc.MmZhY2RkY2UtMTUwMi00YjhkLThiMWItMGQ5ZGJiMTNmMzM2OkJ1aWxkOjNkZGEzOGZmLTkyNjAtNDZhMC05MDIwLTZhYmQ1ODQzNmNmYQ",
+      "displayName": "D3dda38ff-9260-46a0-9020-6abd58436cfa Build Service (thefrogs)",
+      "principalName": "3dda38ff-9260-46a0-9020-6abd58436cfa",
+      "mailAddress": "",
+      "origin": "vsts",
+      "originId": "73d95a27-c46d-46b2-8c8a-9a75f4101e79"
+    },
+    {
+      "descriptor": "svc.MmZhY2RkY2UtMTUwMi00YjhkLThiMWItMGQ5ZGJiMTNmMzM2OkdpdEh1YiBBcHA6YTY3YmQ0NGQtYTBjYy00ZDYwLTk5MmYtYTYzMDM2ZTJiZjBk",
+      "displayName": "GitHub",
+      "principalName": "a67bd44d-a0cc-4d60-992f-a63036e2bf0d",
+      "mailAddress": "",
+      "origin": "vsts",
+      "originId": "fb9ac239-d2ba-4622-a7de-9c6472eb9f7b"
+    },
+    {
+      "descriptor": "svc.MmZhY2RkY2UtMTUwMi00YjhkLThiMWItMGQ5ZGJiMTNmMzM2OkJ1aWxkOmZmMDkzNWVjLTg3ZjEtNDBjYi04ZTY5LTEwNjZjNGYzNzhlYg",
+      "displayName": "apim Build Service (thefrogs)",
+      "principalName": "ff0935ec-87f1-40cb-8e69-1066c4f378eb",
+      "mailAddress": "",
+      "origin": "vsts",
+      "originId": "d2c7d107-cdfe-4019-95a1-a795a108f65c"
+    },
+    {
+      "descriptor": "svc.MmZhY2RkY2UtMTUwMi00YjhkLThiMWItMGQ5ZGJiMTNmMzM2OkJ1aWxkOjlmNTc5ZjFlLTk5MTAtNDJlNS1hZjMyLTM0ZGNiZGZiZWY4MA",
+      "displayName": "D9f579f1e-9910-42e5-af32-34dcbdfbef80 Build Service (thefrogs)",
+      "principalName": "9f579f1e-9910-42e5-af32-34dcbdfbef80",
+      "mailAddress": "",
+      "origin": "vsts",
+      "originId": "4cee4e93-9a60-40f6-bdd9-b1d496928376"
+    },
+    {
+      "descriptor": "svc.MmZhY2RkY2UtMTUwMi00YjhkLThiMWItMGQ5ZGJiMTNmMzM2OkJ1aWxkOmY1NTdlMzZhLWExNzgtNGMyMS04Mjk4LTJlNDBlOTdhNTUzYQ",
+      "displayName": "cwg Build Service (thefrogs)",
+      "principalName": "f557e36a-a178-4c21-8298-2e40e97a553a",
+      "mailAddress": "",
+      "origin": "vsts",
+      "originId": "f037b227-4964-4d31-88f4-be54faf2f496"
+    },
+    {
+      "descriptor": "svc.MmZhY2RkY2UtMTUwMi00YjhkLThiMWItMGQ5ZGJiMTNmMzM2OkJ1aWxkOjQ0OGFmZTRmLWZlNzctNDRkNy1hZDc5LTBkNzg0MWNkZjM1YQ",
+      "displayName": "bd-test Build Service (thefrogs)",
+      "principalName": "448afe4f-fe77-44d7-ad79-0d7841cdf35a",
+      "mailAddress": "",
+      "origin": "vsts",
+      "originId": "bddd5ee0-d288-4461-9d85-bea908f7aa6a"
+    },
+    {
+      "descriptor": "svc.MmZhY2RkY2UtMTUwMi00YjhkLThiMWItMGQ5ZGJiMTNmMzM2OkdpdEh1YiBBcHA6NGM4ZTRkMzMtOTVjZi00ZThhLWFlZTQtODg3OTAyZjkxMjQ1",
+      "displayName": "GitHub",
+      "principalName": "4c8e4d33-95cf-4e8a-aee4-887902f91245",
+      "mailAddress": "",
+      "origin": "vsts",
+      "originId": "10fe7b0c-706d-42e6-8944-c46c091802f7"
+    },
+    {
+      "descriptor": "svc.MmZhY2RkY2UtMTUwMi00YjhkLThiMWItMGQ5ZGJiMTNmMzM2OkJ1aWxkOjY5YTk5NTMwLTAzY2UtNGNhMC04OTE0LTUxYjQyZjBjYTQzMg",
+      "displayName": "D69a99530-03ce-4ca0-8914-51b42f0ca432 Build Service (thefrogs)",
+      "principalName": "69a99530-03ce-4ca0-8914-51b42f0ca432",
+      "mailAddress": "",
+      "origin": "vsts",
+      "originId": "fb41c807-fe04-4d01-8cda-c75ab55879c4"
+    },
+    {
+      "descriptor": "svc.MmZhY2RkY2UtMTUwMi00YjhkLThiMWItMGQ5ZGJiMTNmMzM2OkJ1aWxkOmFjMTRkNjEyLWUzZTEtNGNhNy04ZDgyLWZlNjdmZWJiY2U5Yg",
+      "displayName": "Dac14d612-e3e1-4ca7-8d82-fe67febbce9b Build Service (thefrogs)",
+      "principalName": "ac14d612-e3e1-4ca7-8d82-fe67febbce9b",
+      "mailAddress": "",
+      "origin": "vsts",
+      "originId": "c57bb1b6-9d3e-43b9-baf2-f9a8aee9fd6e"
+    },
+    {
+      "descriptor": "svc.MmZhY2RkY2UtMTUwMi00YjhkLThiMWItMGQ5ZGJiMTNmMzM2OkJ1aWxkOmY2MGZlODU0LTZjMGUtNGY2ZC04YWZkLTFlOGJhZmNiODFmZQ",
+      "displayName": "training Build Service (thefrogs)",
+      "principalName": "f60fe854-6c0e-4f6d-8afd-1e8bafcb81fe",
+      "mailAddress": "",
+      "origin": "vsts",
+      "originId": "657eb11e-83d0-4fac-be88-fa510b9f8f38"
+    }
+  ],
+  "serviceIdentities": [],
+  "timestamp": "2025-10-22T13:37:27.011Z"
+}
