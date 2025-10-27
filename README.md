@@ -5,14 +5,7 @@ This project provides scripts to extract Azure DevOps repository and branch perm
 ## 📁 Project Structure
 
 ```
-├── nodejs/                          # Node.js scripts for permissions extraction
-│   ├── README.md                    # Node.js scripts documentation
-│   ├── main.js                      # Branch policies and permissions
-│   ├── main-repos.js                # Repository permissions
-│   ├── build-identity-cache.js      # Identity cache builder
-│   └── package.json                 # Node.js dependencies
-│
-├── powershell/                      # PowerShell scripts (optimized)
+├── powershell/                      # PowerShell scripts
 │   ├── README.md                    # PowerShell scripts documentation
 │   ├── Get-RepoPermissions.ps1      # Repository permissions extractor
 │   └── Get-MainBranchPermissions.ps1 # Main branch permissions extractor
@@ -24,10 +17,6 @@ This project provides scripts to extract Azure DevOps repository and branch perm
 ```
 
 ## 🚀 Quick Start
-
-### Option 1: PowerShell Scripts (Recommended)
-
-**Best for:** Production use, complete identity resolution, fastest performance
 
 ```powershell
 # 1. Install Azure DevOps CLI
@@ -42,24 +31,6 @@ cd powershell
 ```
 
 See [powershell/README.md](./powershell/README.md) for detailed documentation.
-
-### Option 2: Node.js Scripts
-
-**Best for:** Quick prototyping, environments without Azure CLI
-
-```bash
-# 1. Install dependencies
-cd nodejs
-npm install
-
-# 2. Configure .env file (see Setup section)
-
-# 3. Run scripts
-npm start                            # Branch policies
-npm run repos                        # Repository permissions
-```
-
-See [nodejs/README.md](./nodejs/README.md) for detailed documentation.
 
 ## ⚙️ Setup
 
